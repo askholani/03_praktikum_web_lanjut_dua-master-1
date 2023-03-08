@@ -26,16 +26,12 @@
             <div class="inner">
                 <center>
                     <h4 style="font-weight: bold">Pengalaman Kuliah</h4><br><br>
-                    <img src="dist/img/faiz.jpg" alt="foto saya" style="width:200px"> <br><br>    
-                    <h4 style="font-weight: bold">Faiz Atha Radhitya | 2141720229</h4>
+                    <img src="dist/img/ktm-ibnu.jpg" alt="foto saya" style="width:200px"> <br><br>    
+                    <h4 style="font-weight: bold">Ibnu Hajar Askholani | 2141720170</h4>
                     <p" >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde ducimus delectus odit quod itaque! Dolorem blanditiis, 
                     quia voluptatum consectetur reiciendis magni quod porro nulla deserunt repudiandae reprehenderit dolorum a pariatur ex deleniti fugiat quae nam cum ab quibusdam architecto. 
                     Quod est ratione enim velit, aperiam atque, quibusdam corporis minus pariatur iusto tenetur explicabo incidunt saepe accusantium sunt libero rerum quia dignissimos cupiditate. 
                     Expedita porro illum praesentium pariatur eveniet rerum eligendi, a laboriosam ipsam voluptate soluta error odio voluptatem blanditiis dolor. 
-                    Obcaecati repellendus laborum fugit sit ut optio nam iste corrupti mollitia commodi. Esse commodi nulla fuga fugit, qui quam enim, id possimus perferendis vitae, quaerat blanditiis quia maiores quis odio modi assumenda sint. 
-                    Quisquam voluptas maiores tenetur quis quae, molestias, earum totam consequatur, temporibus corrupti ipsam recusandae. Autem, sit aliquam.
-
-                    SANTAI DULU GAK SIHHH.......
                     </p>
                 </center>
             </div>

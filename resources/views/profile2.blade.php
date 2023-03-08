@@ -18,6 +18,7 @@
     </div><!-- /.container-fluid -->
   </div>
   <!-- /.content-header -->
+
 <!-- Main content -->
 <section class="content">
     <div class="container-fluid">
@@ -26,7 +27,7 @@
             <div class="inner">
                 <center>
                     <h4 style="font-weight: bold">Profil</h4><br><br>
-                    <img src="dist/img/ibnu.png" alt="foto saya" style="width:200px"> <br><br>    
+                    <img src="dist/img/ktm-ibnu.jpg" alt="foto saya" style="width:200px"> <br><br>    
                     
                     <h4 style="font-weight: bold">
                         ----------------------------------------------------------------------------------------------------------------------------------------------

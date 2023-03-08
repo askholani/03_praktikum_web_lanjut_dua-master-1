@@ -11,10 +11,10 @@
       <!-- Sidebar user panel (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="dist/img/faiz.jpg" class="img-circle elevation-2" alt="User Image">
+          <img src="dist/img/ktm-ibnu.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Faiz Atha Radhitya</a>
+          <a href="#" class="d-block">Ibnu Hajar Askholani</a>
         </div>
       </div>
 
@@ -47,7 +47,7 @@
             </a>
           </li>
             <li class="nav-item">
-                <a href="{{url('/profile1')}}" class="nav-link">
+                <a href="{{url('/profile2')}}" class="nav-link">
                     <i class="nav-icon fas fa-th"></i>
                     
                     <p>

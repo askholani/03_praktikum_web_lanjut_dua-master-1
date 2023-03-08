@@ -35,6 +35,8 @@
   </div>
 
     {{-- Navbar Start --}}
+    {{-- akan masuk ke file navbar.blade.php dan kita bisa memanggilnya dengan {{$title}} --}}
+    {{-- @include('layouts.navbar',['title'=>'coba title']) --}} 
     @include('layouts.navbar')
     {{-- Navbar End--}}
 
