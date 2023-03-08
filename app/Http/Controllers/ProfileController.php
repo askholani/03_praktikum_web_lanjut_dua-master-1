@@ -27,14 +27,14 @@ class ProfileController extends Controller
         return view('profile2')
             ->with('full_name', 'Ibnu Hajar Ashkolani')
             ->with('short_name', 'Ibnu')
-            ->with('nim', '2141720077')
-            ->with('absen', '03')
+            ->with('nim', '2141720170')
+            ->with('absen', '13')
             ->with('class', 'TI-2F')
             ->with('prodi', 'D4 Teknik Informatika')
             ->with('jurusan', 'Jurusan Teknologi Informasi')
             ->with('kampus', 'Politeknik Negeri Malang')
-            ->with('email', 'bimatristan.me@gmail.com')
-            ->with('nohp', '085156552045')
-            ->with('ig', '@bima_tristan');
+            ->with('email', 'polinema.askholani@gmail.com')
+            ->with('nohp', 'gak boleh kata orangnya')
+            ->with('ig', 'skipp');
     }
 }
